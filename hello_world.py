@@ -4,7 +4,7 @@ Team members: Lisa Mekonnen, Kayla Stuhlmann, and Kathleem Kemp
 """
 
 def main():
-    print("Hello, my team members (Kayla and Kathleen)! It is Lisa!")
+    print("Hello, Kayla and Lisa! It's Kathleen.")
 
 if __name__ == "__main__":
     main()
